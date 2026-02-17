@@ -7,7 +7,7 @@ Design System & Visuals:
 
 Theme: Deep Dark Mode. Background should be a rich, matte black (#050505) or deep charcoal (#0a0a0a), not just plain black.
 
-Accent: Neon Green (approx #ccff00 or #39ff14). Use this sparingly for buttons, cursors, and active states to create maximum contrast.
+Accent: Neon Green (approx #00f44a or #39ff14). Use this sparingly for buttons, cursors, and active states to create maximum contrast.
 
 Typography: A clash of styles. Use a massive, wide sans-serif (like 'Inter Tight' or 'Manrope') for headlines, and a technical monospace font (like 'JetBrains Mono') for metadata, location, and tags.
 
